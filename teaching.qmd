@@ -1,0 +1,29 @@
+---
+title: "Teaching"
+---
+
+<!-- One line per course. To link a PDF of a syllabus, put the PDF in this folder and
+     write [Syllabus](pos2041-syllabus.pdf); Quarto copies linked files into docs/. -->
+
+I teach courses in International Relations and quantitative social science methodology.
+
+## Instructor of Record
+
+INR 2002: Introduction to International Affairs, Florida State University, Summer B 2026.
+[Syllabus](INR2002___SummerB2026___Robbins.pdf)
+
+## Teaching Assistant
+
+POS 5746: Quantitative Analysis in Political Science (Graduate), Florida State University, 2027.
+
+POS 5737: Political Science Data Analysis (Graduate), Florida State University, 2026.
+
+POS 3713: Research Methods in Political Science, Florida State University, 2025-2027.
+
+INR 3933: Special Topics in IR - Political Violence, Florida State University, 2025.
+
+INR 2002: Introduction to International Affairs, Florida State University, 2024-2025.
+
+POS 3930: Advanced Seminar on Political Science Research Methods, Florida State University, 2024.
+
+IDS 2920: Undergraduate Research Opportunity Program Colloquium, Florida State University, 2023-2024.

@@ -1,0 +1,19 @@
+---
+title: "Caroline Robbins"
+image: robbins_headshot.jpg
+image-alt: "Caroline Robbins"
+about:
+  template: trestles
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:crobbins@fsu.edu
+    - icon: file-earmark-pdf
+      text: CV
+      href: Robbins_CV.pdf
+    - icon: person-vcard
+      text: ORCID
+      href: https://orcid.org/0009-0009-9667-7465
+---
+
+I am a Ph.D. student in Political Science at Florida State University, specializing in International Relations and Comparative Politics. My research examines how political elites use rhetorical strategies to respond to (or generate) international crises, legitimize power, and shape public perceptions amid democratic backsliding and global instability. I focus on elite framing effects and democratic accountability in shifting international contexts, asking how leaders mobilize public support during crises and how these strategies can accelerate or constrain democratic erosion.
